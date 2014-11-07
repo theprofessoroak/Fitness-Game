@@ -1,0 +1,9 @@
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+/Kinect20.dll
+/KinectServer/
+/Kinect2UnityClient.dll
+/msvcp110d.dll
+/msvcr110d.dll
